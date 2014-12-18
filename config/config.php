@@ -4,8 +4,8 @@ if(!defined("IN_STORYBOT")) {
 }
 require_once("src/snapchat.php");
 
-$config['username'] = 'SNAPCHAT-USERNAME';
-$config['password'] = 'SNAPCHAT-PASSWORD';
+$config['username'] = 'NovaStory';
+$config['password'] = 'heyhey123';
 
 $config['adminpassword'] = 'ADMIN-PASSWORD'; //v2.1, does nothing now
 $config['secret'] = "secretj32h09"; //some random characters. DO NOT CHANGE IT except if you are starting a new installation.
